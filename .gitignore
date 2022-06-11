@@ -2,7 +2,7 @@
 node_modules
 .env
 .eslintrc.js
-
+workout-app.todo
 # local env files
 .env.local
 .env.*.local
